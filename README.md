@@ -1,6 +1,6 @@
 
 # Guest Booking Website
-[Click here to visit Guest Booking Website](https://guest-room-booking.netlify.app/)
+[Click here to visit Guest Booking Website](https://guest-rooms-booking.netlify.app/)
 
 ![alt text](https://raw.githubusercontent.com/SEENIVASANIT/wd301/main/demo/Screenshot%202023-10-29%20155919.png) 
 
